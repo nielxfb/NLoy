@@ -44,6 +44,7 @@ help() {
     echo "  help       Show this help message"
     echo "  deploy     Deploy an application"
     echo "  ps         Check active deployments status"
+    echo "  kill       Kill a deployment"
     echo -e "\nRun $(blue "nloy COMMAND help") for more information on a command."
 }
 
